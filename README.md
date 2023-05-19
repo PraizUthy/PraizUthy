@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi I'm Praise Uthman 👋
+ - 👀 I’m interested in Data Analysis particularly business analysis and crafting data-driven narratives with striking visuals
+ - 🌱 I’m currently learning multiple analytical tools such as Python, Tableau, SQL, Excel, SAS and PowerBi 
+- 👯 I'm seeking collaborations on captivating data visualization projects, where complex data narratives are transformed into compelling visual stories.
+- 📫 How to reach me on Linkedin: Praise Uthman
+
 
 <!--
 **PraizUthy/PraizUthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
